@@ -3,6 +3,9 @@ div {
   color: rgb(225, 225, 225);
 }
 
-.heading {
-  color: rgb(255, 0, 0);
+#headingone {
+  color: black;
+}
+#headingtwo {
+  color: aqua;
 }
