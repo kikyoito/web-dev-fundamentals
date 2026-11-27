@@ -1,21 +1,36 @@
 #outer {
+  background-color: #0f1111;
   height: 40px;
-  background-color: black;
-  border-radius: 10px;
-  border-style: solid;
-  border-color: white;
 }
 
-#website {
-  text-decoration: none;
+#amazon {
   color: goldenrod;
-}
-
-#website2 {
-  width: 62px;
+  font-size: 20px;
+  text-decoration: none;
 }
 
 #accounts {
+  margin-left: 200px;
   color: white;
-  margin-left: 80px;
+  text-decoration: none;
+}
+
+#mycart {
+  margin-left: 200px;
+  color: white;
+  text-decoration: none;
+}
+
+#contact {
+  margin-left: 200px;
+  color: white;
+  text-decoration: none;
+}
+
+#searchbox {
+  margin-left: 100px;
+}
+
+#search {
+  background-color: yellow;
 }
