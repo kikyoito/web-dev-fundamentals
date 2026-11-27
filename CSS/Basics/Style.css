@@ -1,17 +1,21 @@
-.headings {
-  text-align: center;
-  text-transform: capitalize;
-}
-
-p {
-  text-transform: capitalize;
-  font-family: "Times New Roman";
-}
-
 #outer {
-  font-size: 25px;
+  height: 40px;
+  background-color: black;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: white;
 }
 
-#inner {
-  font-size: 10px;
+#website {
+  text-decoration: none;
+  color: goldenrod;
+}
+
+#website2 {
+  width: 62px;
+}
+
+#accounts {
+  color: white;
+  margin-left: 80px;
 }
